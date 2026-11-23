@@ -45,15 +45,4 @@ vibe-code-prd-plus-skill/
 └── README.md        # Dokumentasi teknis dan panduan evaluasi praktikum
 ```
 
----
 
-## 🚀 Cara Menjalankan Prototipe
-Prototipe ini dirancang *zero-dependency* (murni Vanilla Web):
-1. Unduh atau salin seluruh berkas repositori ini.
-2. Klik dua kali pada berkas `index.html` untuk langsung membukanya di browser apa pun (Google Chrome, Microsoft Edge, Safari, Firefox).
-3. Untuk pengalaman demonstrasi optimal:
-   - Klik centang/tombol *"Bandingkan"* pada produk katalog (tersedia 6 produk earphone TWS).
-   - Perhatikan baki melayang di bawah layar.
-   - Klik tombol oranye *"Bandingkan Sekarang"*.
-   - Uji sakelar *"Sorot Perbedaan"* dan *"Sembunyikan Baris Sama"*.
-   - Uji tombol switch *"📱 Mode HP"* di bilah navigasi kanan atas.
