@@ -43,6 +43,3 @@ vibe-code-prd-plus-skill/
 ├── app.js           # Kontroler interaktif, state persistence, deteksi perbedaan otomatis, & keranjang
 ├── SKILL.md         # Panduan rekayasa UX, heuristik HCI, dan token desain yang memandu AI
 └── README.md        # Dokumentasi teknis dan panduan evaluasi praktikum
-```
-
-
